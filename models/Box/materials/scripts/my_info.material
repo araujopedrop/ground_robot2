@@ -1,0 +1,14 @@
+material MyInfo/Diffuse
+{
+  receive_shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture info.png
+      }
+    }
+  }
+}
