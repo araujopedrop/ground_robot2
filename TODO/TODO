@@ -1,3 +1,6 @@
+- las llamadas a servicios en la GUI son bloqueantes. Ver como solucionar: probar con asyncio
+
+
 - Agregar rbot descripotion
 - Arreglar el hardcodeo del path y nombre de mapas
 - Terminar funcionalidad de navegacion
